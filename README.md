@@ -3,7 +3,8 @@ Supporting information for q-potential
 
 ### Layout
 
-- `notebook.ipynb` Jupyter Notebook to perform calculations and generate plots
+- `md/` Molecular Dynamics setup
+- `kb/` Kirkwood-Buff analysis
 
 ### Usage
 
