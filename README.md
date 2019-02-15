@@ -3,7 +3,7 @@ Supporting information for q-potential
 
 ### Layout
 
-- `md/` Molecular Dynamics setup
+- `bulk/` Molecular Dynamics setup
 - `kb/` Kirkwood-Buff analysis
 
 ### Usage
