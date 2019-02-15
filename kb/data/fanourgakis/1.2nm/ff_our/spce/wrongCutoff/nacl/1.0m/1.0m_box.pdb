@@ -1,0 +1,216 @@
+REMARK   1 CREATED WITH OPENMM 7.1, 2018-02-25
+HETATM    1 Cl    IN A   1       0.768  56.744  55.327  1.00  0.00          Cl  
+TER       2       IN A   1
+HETATM    3 Cl    IN B   1      33.135  49.242   3.016  1.00  0.00          Cl  
+TER       4       IN B   1
+HETATM    5 Cl    IN C   1      23.121  29.195  58.755  1.00  0.00          Cl  
+TER       6       IN C   1
+HETATM    7 Cl    IN D   1      55.096  27.101  53.131  1.00  0.00          Cl  
+TER       8       IN D   1
+HETATM    9 Cl    IN E   1      37.143  42.154  38.336  1.00  0.00          Cl  
+TER      10       IN E   1
+HETATM   11 Cl    IN F   1      31.171   8.683  18.107  1.00  0.00          Cl  
+TER      12       IN F   1
+HETATM   13 Cl    IN G   1       0.659  14.621   3.324  1.00  0.00          Cl  
+TER      14       IN G   1
+HETATM   15 Cl    IN H   1      46.904  15.458  12.602  1.00  0.00          Cl  
+TER      16       IN H   1
+HETATM   17 Cl    IN I   1      58.063  10.007  16.513  1.00  0.00          Cl  
+TER      18       IN I   1
+HETATM   19 Cl    IN J   1      57.547  24.720  27.586  1.00  0.00          Cl  
+TER      20       IN J   1
+HETATM   21 Cl    IN K   1       8.648   5.323  32.444  1.00  0.00          Cl  
+TER      22       IN K   1
+HETATM   23 Cl    IN L   1      41.790  21.556  50.541  1.00  0.00          Cl  
+TER      24       IN L   1
+HETATM   25 Cl    IN M   1      56.225  12.548  31.654  1.00  0.00          Cl  
+TER      26       IN M   1
+HETATM   27 Cl    IN N   1      15.716  21.280   5.737  1.00  0.00          Cl  
+TER      28       IN N   1
+HETATM   29 Cl    IN O   1      10.598  18.598  58.260  1.00  0.00          Cl  
+TER      30       IN O   1
+HETATM   31 Cl    IN P   1      59.571  27.619   5.688  1.00  0.00          Cl  
+TER      32       IN P   1
+HETATM   33 Cl    IN Q   1      39.789  51.458  24.464  1.00  0.00          Cl  
+TER      34       IN Q   1
+HETATM   35 Cl    IN R   1      40.312  14.456  26.388  1.00  0.00          Cl  
+TER      36       IN R   1
+HETATM   37 Cl    IN S   1      24.237  34.773   7.964  1.00  0.00          Cl  
+TER      38       IN S   1
+HETATM   39 Cl    IN T   1      46.834  49.104   1.745  1.00  0.00          Cl  
+TER      40       IN T   1
+HETATM   41 Cl    IN U   1      17.997  42.905   9.239  1.00  0.00          Cl  
+TER      42       IN U   1
+HETATM   43 Cl    IN V   1      11.629  47.974  31.744  1.00  0.00          Cl  
+TER      44       IN V   1
+HETATM   45 Cl    IN W   1      44.431  22.151  36.123  1.00  0.00          Cl  
+TER      46       IN W   1
+HETATM   47 Cl    IN X   1      33.660   7.430  26.004  1.00  0.00          Cl  
+TER      48       IN X   1
+HETATM   49 Cl    IN Y   1      54.340  37.482  47.159  1.00  0.00          Cl  
+TER      50       IN Y   1
+HETATM   51 Cl    IN Z   1       5.274  11.897  28.930  1.00  0.00          Cl  
+TER      52       IN Z   1
+HETATM   53 Cl    IN A   1      35.408  49.677  46.970  1.00  0.00          Cl  
+TER      54       IN A   1
+HETATM   55 Cl    IN B   1       6.463  50.096  54.391  1.00  0.00          Cl  
+TER      56       IN B   1
+HETATM   57 Cl    IN C   1      28.070  51.397  39.389  1.00  0.00          Cl  
+TER      58       IN C   1
+HETATM   59 Cl    IN D   1      43.993  33.705  16.937  1.00  0.00          Cl  
+TER      60       IN D   1
+HETATM   61 Cl    IN E   1      56.364  47.385  37.686  1.00  0.00          Cl  
+TER      62       IN E   1
+HETATM   63 Cl    IN F   1      59.096  28.392  37.777  1.00  0.00          Cl  
+TER      64       IN F   1
+HETATM   65 Cl    IN G   1      38.148   9.262  41.505  1.00  0.00          Cl  
+TER      66       IN G   1
+HETATM   67 Cl    IN H   1       1.148  12.791  20.207  1.00  0.00          Cl  
+TER      68       IN H   1
+HETATM   69 Cl    IN I   1      41.029  10.838  22.293  1.00  0.00          Cl  
+TER      70       IN I   1
+HETATM   71 Cl    IN J   1      43.428  34.827  41.324  1.00  0.00          Cl  
+TER      72       IN J   1
+HETATM   73 Cl    IN K   1      22.103  53.960   1.136  1.00  0.00          Cl  
+TER      74       IN K   1
+HETATM   75 Cl    IN L   1       8.296  43.070  17.115  1.00  0.00          Cl  
+TER      76       IN L   1
+HETATM   77 Cl    IN M   1      21.996   6.008   3.872  1.00  0.00          Cl  
+TER      78       IN M   1
+HETATM   79 Cl    IN N   1      27.802  25.870  58.199  1.00  0.00          Cl  
+TER      80       IN N   1
+HETATM   81 Cl    IN O   1       5.434  46.500  51.422  1.00  0.00          Cl  
+TER      82       IN O   1
+HETATM   83 Cl    IN P   1      31.537  28.115  31.742  1.00  0.00          Cl  
+TER      84       IN P   1
+HETATM   85 Cl    IN Q   1       9.566  15.865  44.912  1.00  0.00          Cl  
+TER      86       IN Q   1
+HETATM   87 Cl    IN R   1      48.430  39.573  46.032  1.00  0.00          Cl  
+TER      88       IN R   1
+HETATM   89 Cl    IN S   1       3.442  21.636  44.486  1.00  0.00          Cl  
+TER      90       IN S   1
+HETATM   91 Cl    IN T   1       2.820  29.866   0.052  1.00  0.00          Cl  
+TER      92       IN T   1
+HETATM   93 Cl    IN U   1      38.475  22.785  12.909  1.00  0.00          Cl  
+TER      94       IN U   1
+HETATM   95 Cl    IN V   1      59.424  49.016  30.251  1.00  0.00          Cl  
+TER      96       IN V   1
+HETATM   97 Cl    IN W   1       7.783  17.633  17.569  1.00  0.00          Cl  
+TER      98       IN W   1
+HETATM   99 Cl    IN X   1      56.181  45.871  23.035  1.00  0.00          Cl  
+TER     100       IN X   1
+HETATM  101 Cl    IN Y   1      23.022  34.915  54.663  1.00  0.00          Cl  
+TER     102       IN Y   1
+HETATM  103 Cl    IN Z   1      17.124  54.431  35.207  1.00  0.00          Cl  
+TER     104       IN Z   1
+HETATM  105 Cl    IN A   1      51.787  54.475  28.160  1.00  0.00          Cl  
+TER     106       IN A   1
+HETATM  107 Cl    IN B   1      46.057  24.985  54.280  1.00  0.00          Cl  
+TER     108       IN B   1
+HETATM  109 Cl    IN C   1      35.319  12.873  12.404  1.00  0.00          Cl  
+TER     110       IN C   1
+HETATM  111 Cl    IN D   1      31.777  48.928  31.276  1.00  0.00          Cl  
+TER     112       IN D   1
+HETATM  113 Cl    IN E   1      28.155  38.540  30.926  1.00  0.00          Cl  
+TER     114       IN E   1
+HETATM  115 Cl    IN F   1      55.125   2.834  12.702  1.00  0.00          Cl  
+TER     116       IN F   1
+HETATM  117 Cl    IN G   1      20.284  38.529  24.879  1.00  0.00          Cl  
+TER     118       IN G   1
+HETATM  119 Cl    IN H   1      22.810  17.661  29.267  1.00  0.00          Cl  
+TER     120       IN H   1
+HETATM  121 Cl    IN I   1       0.553  37.071  21.726  1.00  0.00          Cl  
+TER     122       IN I   1
+HETATM  123 Cl    IN J   1      59.712  59.341  42.641  1.00  0.00          Cl  
+TER     124       IN J   1
+HETATM  125 Cl    IN K   1       8.844  44.712  24.061  1.00  0.00          Cl  
+TER     126       IN K   1
+HETATM  127 Cl    IN L   1       5.818  56.643  29.381  1.00  0.00          Cl  
+TER     128       IN L   1
+HETATM  129 Cl    IN M   1      45.904  49.807  13.638  1.00  0.00          Cl  
+TER     130       IN M   1
+HETATM  131 Cl    IN N   1      32.323  58.448  41.746  1.00  0.00          Cl  
+TER     132       IN N   1
+HETATM  133 Cl    IN O   1      40.774  57.643  24.371  1.00  0.00          Cl  
+TER     134       IN O   1
+HETATM  135 Cl    IN P   1      43.731  24.042  57.497  1.00  0.00          Cl  
+TER     136       IN P   1
+HETATM  137 Cl    IN Q   1      43.196  57.421   6.183  1.00  0.00          Cl  
+TER     138       IN Q   1
+HETATM  139 Cl    IN R   1       1.486  48.940  29.045  1.00  0.00          Cl  
+TER     140       IN R   1
+HETATM  141 Cl    IN S   1      49.384  39.009  55.278  1.00  0.00          Cl  
+TER     142       IN S   1
+HETATM  143 Cl    IN T   1      56.813  52.089   8.953  1.00  0.00          Cl  
+TER     144       IN T   1
+HETATM  145 Cl    IN U   1      52.613  53.939  40.642  1.00  0.00          Cl  
+TER     146       IN U   1
+HETATM  147 Cl    IN V   1       5.603  19.028  19.311  1.00  0.00          Cl  
+TER     148       IN V   1
+HETATM  149 Cl    IN W   1      22.642  41.032  40.536  1.00  0.00          Cl  
+TER     150       IN W   1
+HETATM  151 Cl    IN X   1      23.465  43.599  45.869  1.00  0.00          Cl  
+TER     152       IN X   1
+HETATM  153 Cl    IN Y   1      37.659  49.920  11.955  1.00  0.00          Cl  
+TER     154       IN Y   1
+HETATM  155 Cl    IN Z   1       1.367  54.496  29.365  1.00  0.00          Cl  
+TER     156       IN Z   1
+HETATM  157 Cl    IN A   1       6.518  14.879  10.070  1.00  0.00          Cl  
+TER     158       IN A   1
+HETATM  159 Cl    IN B   1      59.288   6.776  11.764  1.00  0.00          Cl  
+TER     160       IN B   1
+HETATM  161 Cl    IN C   1      59.925  27.092   8.432  1.00  0.00          Cl  
+TER     162       IN C   1
+HETATM  163 Cl    IN D   1      40.785  29.947  57.291  1.00  0.00          Cl  
+TER     164       IN D   1
+HETATM  165 Cl    IN E   1      31.026  23.560  55.028  1.00  0.00          Cl  
+TER     166       IN E   1
+HETATM  167 Cl    IN F   1      18.532  15.488  26.055  1.00  0.00          Cl  
+TER     168       IN F   1
+HETATM  169 Cl    IN G   1      46.563  35.956  52.774  1.00  0.00          Cl  
+TER     170       IN G   1
+HETATM  171 Cl    IN H   1      57.160   9.765  14.318  1.00  0.00          Cl  
+TER     172       IN H   1
+HETATM  173 Cl    IN I   1      53.205  37.296   9.680  1.00  0.00          Cl  
+TER     174       IN I   1
+HETATM  175 Cl    IN J   1      52.932   7.514  47.303  1.00  0.00          Cl  
+TER     176       IN J   1
+HETATM  177 Cl    IN K   1      54.929  43.339  25.678  1.00  0.00          Cl  
+TER     178       IN K   1
+HETATM  179 Cl    IN L   1      50.590  35.201  48.810  1.00  0.00          Cl  
+TER     180       IN L   1
+HETATM  181 Cl    IN M   1      56.893  59.010  37.680  1.00  0.00          Cl  
+TER     182       IN M   1
+HETATM  183 Cl    IN N   1      11.681  49.757  12.942  1.00  0.00          Cl  
+TER     184       IN N   1
+HETATM  185 Cl    IN O   1       1.124  38.336  54.643  1.00  0.00          Cl  
+TER     186       IN O   1
+HETATM  187 Cl    IN P   1      14.411  31.420  27.140  1.00  0.00          Cl  
+TER     188       IN P   1
+HETATM  189 Cl    IN Q   1      45.758  18.420  12.766  1.00  0.00          Cl  
+TER     190       IN Q   1
+HETATM  191 Cl    IN R   1      29.280  29.119  40.794  1.00  0.00          Cl  
+TER     192       IN R   1
+HETATM  193 Cl    IN S   1      39.249   0.853  50.796  1.00  0.00          Cl  
+TER     194       IN S   1
+HETATM  195 Cl    IN T   1      35.414  21.746   5.974  1.00  0.00          Cl  
+TER     196       IN T   1
+HETATM  197 Cl    IN U   1      34.444  48.490   1.766  1.00  0.00          Cl  
+TER     198       IN U   1
+HETATM  199 Cl    IN V   1      57.045  19.953  33.526  1.00  0.00          Cl  
+TER     200       IN V   1
+HETATM  201 Cl    IN W   1      26.820  41.987   3.917  1.00  0.00          Cl  
+TER     202       IN W   1
+HETATM  203 Cl    IN X   1      52.474  50.420  59.197  1.00  0.00          Cl  
+TER     204       IN X   1
+HETATM  205 Cl    IN Y   1      10.391  57.102  17.882  1.00  0.00          Cl  
+TER     206       IN Y   1
+HETATM  207 Cl    IN Z   1       8.485  38.938   6.710  1.00  0.00          Cl  
+TER     208       IN Z   1
+HETATM  209 Cl    IN A   1      50.661  41.828  43.446  1.00  0.00          Cl  
+TER     210       IN A   1
+HETATM  211 Cl    IN B   1      43.790  55.264  10.301  1.00  0.00          Cl  
+TER     212       IN B   1
+HETATM  213 Cl    IN C   1      13.354  10.409  17.770  1.00  0.00          Cl  
+TER     214       IN C   1
+END

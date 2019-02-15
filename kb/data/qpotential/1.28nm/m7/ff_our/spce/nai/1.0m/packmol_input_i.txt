@@ -1,0 +1,12 @@
+ 
+# Mixture 
+
+tolerance 1.000000
+filetype pdb
+output 1.0m_box.pdb
+add_amber_ter
+
+structure 1.0m_i.pdb
+  number 104 
+  inside box 0. 0. 0. 60.000000 60.000000 60.000000
+end structure

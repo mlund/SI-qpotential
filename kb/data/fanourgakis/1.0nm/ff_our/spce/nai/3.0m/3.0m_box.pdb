@@ -1,0 +1,480 @@
+REMARK   1 CREATED WITH OPENMM 7.1, 2018-02-25
+HETATM    1  I     N A   1      44.579  43.317   5.946  1.00  0.00           I  
+TER       2        N A   1
+HETATM    3  I     N B   1      37.161  55.733  18.699  1.00  0.00           I  
+TER       4        N B   1
+HETATM    5  I     N C   1      19.824  20.992  24.426  1.00  0.00           I  
+TER       6        N C   1
+HETATM    7  I     N D   1      35.267  55.245  23.950  1.00  0.00           I  
+TER       8        N D   1
+HETATM    9  I     N E   1       1.214  44.679  11.675  1.00  0.00           I  
+TER      10        N E   1
+HETATM   11  I     N F   1      16.389  13.838  19.499  1.00  0.00           I  
+TER      12        N F   1
+HETATM   13  I     N G   1      57.752  48.964   6.308  1.00  0.00           I  
+TER      14        N G   1
+HETATM   15  I     N H   1      25.473  59.299  25.323  1.00  0.00           I  
+TER      16        N H   1
+HETATM   17  I     N I   1      59.430  52.125  16.724  1.00  0.00           I  
+TER      18        N I   1
+HETATM   19  I     N J   1      57.411   1.357  26.994  1.00  0.00           I  
+TER      20        N J   1
+HETATM   21  I     N K   1      14.621  27.065  49.433  1.00  0.00           I  
+TER      22        N K   1
+HETATM   23  I     N L   1       3.270  34.564  59.260  1.00  0.00           I  
+TER      24        N L   1
+HETATM   25  I     N M   1       5.275  53.751  30.536  1.00  0.00           I  
+TER      26        N M   1
+HETATM   27  I     N N   1      43.016  44.372   2.132  1.00  0.00           I  
+TER      28        N N   1
+HETATM   29  I     N O   1      42.543  53.482   8.269  1.00  0.00           I  
+TER      30        N O   1
+HETATM   31  I     N P   1      55.015  48.827  58.297  1.00  0.00           I  
+TER      32        N P   1
+HETATM   33  I     N Q   1      45.674  56.258  45.267  1.00  0.00           I  
+TER      34        N Q   1
+HETATM   35  I     N R   1       8.239  58.389  36.995  1.00  0.00           I  
+TER      36        N R   1
+HETATM   37  I     N S   1      51.090  39.143  42.418  1.00  0.00           I  
+TER      38        N S   1
+HETATM   39  I     N T   1      54.539  20.036  29.530  1.00  0.00           I  
+TER      40        N T   1
+HETATM   41  I     N U   1      29.708  24.961  24.123  1.00  0.00           I  
+TER      42        N U   1
+HETATM   43  I     N V   1      17.021   6.692   5.270  1.00  0.00           I  
+TER      44        N V   1
+HETATM   45  I     N W   1      34.049   6.674  15.144  1.00  0.00           I  
+TER      46        N W   1
+HETATM   47  I     N X   1      51.138  51.705  16.435  1.00  0.00           I  
+TER      48        N X   1
+HETATM   49  I     N Y   1      56.276   3.751  17.575  1.00  0.00           I  
+TER      50        N Y   1
+HETATM   51  I     N Z   1      53.257  55.315   9.483  1.00  0.00           I  
+TER      52        N Z   1
+HETATM   53  I     N A   1      40.161  22.928  30.267  1.00  0.00           I  
+TER      54        N A   1
+HETATM   55  I     N B   1      57.655  38.921  17.092  1.00  0.00           I  
+TER      56        N B   1
+HETATM   57  I     N C   1       4.736  53.608  53.160  1.00  0.00           I  
+TER      58        N C   1
+HETATM   59  I     N D   1      12.193  34.192   4.918  1.00  0.00           I  
+TER      60        N D   1
+HETATM   61  I     N E   1      23.983  31.676   5.749  1.00  0.00           I  
+TER      62        N E   1
+HETATM   63  I     N F   1      20.287  46.277  40.827  1.00  0.00           I  
+TER      64        N F   1
+HETATM   65  I     N G   1      18.485  30.203  52.186  1.00  0.00           I  
+TER      66        N G   1
+HETATM   67  I     N H   1      56.710  25.960   8.345  1.00  0.00           I  
+TER      68        N H   1
+HETATM   69  I     N I   1      58.582  34.035  18.162  1.00  0.00           I  
+TER      70        N I   1
+HETATM   71  I     N J   1       1.543  59.571  12.593  1.00  0.00           I  
+TER      72        N J   1
+HETATM   73  I     N K   1       6.642  40.068  29.851  1.00  0.00           I  
+TER      74        N K   1
+HETATM   75  I     N L   1      48.321  47.431  55.585  1.00  0.00           I  
+TER      76        N L   1
+HETATM   77  I     N M   1      14.135   6.467  32.308  1.00  0.00           I  
+TER      78        N M   1
+HETATM   79  I     N N   1      10.942  11.876  19.403  1.00  0.00           I  
+TER      80        N N   1
+HETATM   81  I     N O   1      28.996  31.508  24.144  1.00  0.00           I  
+TER      82        N O   1
+HETATM   83  I     N P   1      10.200   8.378  54.330  1.00  0.00           I  
+TER      84        N P   1
+HETATM   85  I     N Q   1      43.329  52.746  56.173  1.00  0.00           I  
+TER      86        N Q   1
+HETATM   87  I     N R   1      42.732  49.307  31.046  1.00  0.00           I  
+TER      88        N R   1
+HETATM   89  I     N S   1      51.178  10.801  46.087  1.00  0.00           I  
+TER      90        N S   1
+HETATM   91  I     N T   1      22.080  16.700  45.183  1.00  0.00           I  
+TER      92        N T   1
+HETATM   93  I     N U   1      10.742  16.399  46.743  1.00  0.00           I  
+TER      94        N U   1
+HETATM   95  I     N V   1      38.470  22.276  29.079  1.00  0.00           I  
+TER      96        N V   1
+HETATM   97  I     N W   1      11.041  56.494   2.068  1.00  0.00           I  
+TER      98        N W   1
+HETATM   99  I     N X   1       6.944  59.908  29.148  1.00  0.00           I  
+TER     100        N X   1
+HETATM  101  I     N Y   1       1.714   6.910  17.059  1.00  0.00           I  
+TER     102        N Y   1
+HETATM  103  I     N Z   1      44.661  45.315  31.050  1.00  0.00           I  
+TER     104        N Z   1
+HETATM  105  I     N A   1      38.976  50.109  46.818  1.00  0.00           I  
+TER     106        N A   1
+HETATM  107  I     N B   1       2.787  23.985  17.488  1.00  0.00           I  
+TER     108        N B   1
+HETATM  109  I     N C   1      22.218   3.481   6.656  1.00  0.00           I  
+TER     110        N C   1
+HETATM  111  I     N D   1       4.269   4.223  49.038  1.00  0.00           I  
+TER     112        N D   1
+HETATM  113  I     N E   1      25.030  26.752  40.792  1.00  0.00           I  
+TER     114        N E   1
+HETATM  115  I     N F   1      43.181  35.875  28.322  1.00  0.00           I  
+TER     116        N F   1
+HETATM  117  I     N G   1      22.706   7.784   4.490  1.00  0.00           I  
+TER     118        N G   1
+HETATM  119  I     N H   1       1.157  22.546  19.984  1.00  0.00           I  
+TER     120        N H   1
+HETATM  121  I     N I   1       3.235   8.477   1.934  1.00  0.00           I  
+TER     122        N I   1
+HETATM  123  I     N J   1      50.239  11.717   9.611  1.00  0.00           I  
+TER     124        N J   1
+HETATM  125  I     N K   1      51.922  30.341  44.483  1.00  0.00           I  
+TER     126        N K   1
+HETATM  127  I     N L   1      21.202   9.999  59.913  1.00  0.00           I  
+TER     128        N L   1
+HETATM  129  I     N M   1      14.485   1.032  33.094  1.00  0.00           I  
+TER     130        N M   1
+HETATM  131  I     N N   1      20.881  48.637  26.854  1.00  0.00           I  
+TER     132        N N   1
+HETATM  133  I     N O   1      48.339  53.793  49.145  1.00  0.00           I  
+TER     134        N O   1
+HETATM  135  I     N P   1      34.822  58.168   5.570  1.00  0.00           I  
+TER     136        N P   1
+HETATM  137  I     N Q   1      55.429  15.690   0.430  1.00  0.00           I  
+TER     138        N Q   1
+HETATM  139  I     N R   1      35.831  56.235  32.436  1.00  0.00           I  
+TER     140        N R   1
+HETATM  141  I     N S   1      14.821  29.528  49.313  1.00  0.00           I  
+TER     142        N S   1
+HETATM  143  I     N T   1      34.944  23.092  47.415  1.00  0.00           I  
+TER     144        N T   1
+HETATM  145  I     N U   1      34.201  15.154  17.051  1.00  0.00           I  
+TER     146        N U   1
+HETATM  147  I     N V   1      33.263  38.422  24.632  1.00  0.00           I  
+TER     148        N V   1
+HETATM  149  I     N W   1       5.734  34.995   2.724  1.00  0.00           I  
+TER     150        N W   1
+HETATM  151  I     N X   1      19.123  11.741  42.363  1.00  0.00           I  
+TER     152        N X   1
+HETATM  153  I     N Y   1      44.599  16.184  56.425  1.00  0.00           I  
+TER     154        N Y   1
+HETATM  155  I     N Z   1       7.145  38.905   5.527  1.00  0.00           I  
+TER     156        N Z   1
+HETATM  157  I     N A   1      22.596  30.224   8.680  1.00  0.00           I  
+TER     158        N A   1
+HETATM  159  I     N B   1      54.246  49.411  43.532  1.00  0.00           I  
+TER     160        N B   1
+HETATM  161  I     N C   1      44.355  54.516  12.664  1.00  0.00           I  
+TER     162        N C   1
+HETATM  163  I     N D   1      39.365  28.018   8.387  1.00  0.00           I  
+TER     164        N D   1
+HETATM  165  I     N E   1      36.337  10.513  46.058  1.00  0.00           I  
+TER     166        N E   1
+HETATM  167  I     N F   1      50.862  52.597  55.639  1.00  0.00           I  
+TER     168        N F   1
+HETATM  169  I     N G   1      16.171  43.634  16.266  1.00  0.00           I  
+TER     170        N G   1
+HETATM  171  I     N H   1       5.283   0.445  13.434  1.00  0.00           I  
+TER     172        N H   1
+HETATM  173  I     N I   1      49.537  42.843  49.434  1.00  0.00           I  
+TER     174        N I   1
+HETATM  175  I     N J   1      39.173  51.378  41.749  1.00  0.00           I  
+TER     176        N J   1
+HETATM  177  I     N K   1      51.174  31.435  22.223  1.00  0.00           I  
+TER     178        N K   1
+HETATM  179  I     N L   1      30.164   4.728  57.535  1.00  0.00           I  
+TER     180        N L   1
+HETATM  181  I     N M   1      27.640  35.069  59.271  1.00  0.00           I  
+TER     182        N M   1
+HETATM  183  I     N N   1      36.328  39.784   2.194  1.00  0.00           I  
+TER     184        N N   1
+HETATM  185  I     N O   1      59.827  12.639   1.217  1.00  0.00           I  
+TER     186        N O   1
+HETATM  187  I     N P   1      26.906  13.911  25.214  1.00  0.00           I  
+TER     188        N P   1
+HETATM  189  I     N Q   1      16.961   2.666  27.911  1.00  0.00           I  
+TER     190        N Q   1
+HETATM  191  I     N R   1      54.842  15.656  37.665  1.00  0.00           I  
+TER     192        N R   1
+HETATM  193  I     N S   1      35.029  51.057  45.526  1.00  0.00           I  
+TER     194        N S   1
+HETATM  195  I     N T   1      25.529   6.138   0.242  1.00  0.00           I  
+TER     196        N T   1
+HETATM  197  I     N U   1      46.932  23.882  25.166  1.00  0.00           I  
+TER     198        N U   1
+HETATM  199  I     N V   1      53.041  48.945  11.190  1.00  0.00           I  
+TER     200        N V   1
+HETATM  201  I     N W   1      41.356  29.474   4.095  1.00  0.00           I  
+TER     202        N W   1
+HETATM  203  I     N X   1      17.414  58.271   8.150  1.00  0.00           I  
+TER     204        N X   1
+HETATM  205  I     N Y   1       4.064  41.979  38.242  1.00  0.00           I  
+TER     206        N Y   1
+HETATM  207  I     N Z   1      23.208  40.662  47.796  1.00  0.00           I  
+TER     208        N Z   1
+HETATM  209  I     N A   1      27.344  40.660  22.240  1.00  0.00           I  
+TER     210        N A   1
+HETATM  211  I     N B   1      33.766  34.383  34.135  1.00  0.00           I  
+TER     212        N B   1
+HETATM  213  I     N C   1       7.495  41.826  45.811  1.00  0.00           I  
+TER     214        N C   1
+HETATM  215  I     N D   1      55.890  33.143  52.464  1.00  0.00           I  
+TER     216        N D   1
+HETATM  217  I     N E   1      38.344  49.530  28.292  1.00  0.00           I  
+TER     218        N E   1
+HETATM  219  I     N F   1      42.608  49.827  44.245  1.00  0.00           I  
+TER     220        N F   1
+HETATM  221  I     N G   1       0.676  51.401  48.661  1.00  0.00           I  
+TER     222        N G   1
+HETATM  223  I     N H   1      45.484  30.077  25.476  1.00  0.00           I  
+TER     224        N H   1
+HETATM  225  I     N I   1      39.012  53.600  53.641  1.00  0.00           I  
+TER     226        N I   1
+HETATM  227  I     N J   1      15.238  56.793  42.090  1.00  0.00           I  
+TER     228        N J   1
+HETATM  229  I     N K   1      24.661  13.304   6.693  1.00  0.00           I  
+TER     230        N K   1
+HETATM  231  I     N L   1      42.370  27.068   7.166  1.00  0.00           I  
+TER     232        N L   1
+HETATM  233  I     N M   1      53.593   6.676  38.512  1.00  0.00           I  
+TER     234        N M   1
+HETATM  235  I     N N   1      17.938  45.807   2.989  1.00  0.00           I  
+TER     236        N N   1
+HETATM  237  I     N O   1      43.454  43.978  43.798  1.00  0.00           I  
+TER     238        N O   1
+HETATM  239  I     N P   1      17.243  48.355  59.418  1.00  0.00           I  
+TER     240        N P   1
+HETATM  241  I     N Q   1      38.622  55.304  58.398  1.00  0.00           I  
+TER     242        N Q   1
+HETATM  243  I     N R   1      59.550  30.185  24.234  1.00  0.00           I  
+TER     244        N R   1
+HETATM  245  I     N S   1      43.174  55.935  35.159  1.00  0.00           I  
+TER     246        N S   1
+HETATM  247  I     N T   1      59.099  27.342   0.134  1.00  0.00           I  
+TER     248        N T   1
+HETATM  249  I     N U   1      48.000  46.783  39.813  1.00  0.00           I  
+TER     250        N U   1
+HETATM  251  I     N V   1      54.813  20.464   0.865  1.00  0.00           I  
+TER     252        N V   1
+HETATM  253  I     N W   1      33.316  34.157   8.588  1.00  0.00           I  
+TER     254        N W   1
+HETATM  255  I     N X   1       7.213  25.898  43.397  1.00  0.00           I  
+TER     256        N X   1
+HETATM  257  I     N Y   1      24.722  51.768   5.218  1.00  0.00           I  
+TER     258        N Y   1
+HETATM  259  I     N Z   1      10.828  19.721  32.935  1.00  0.00           I  
+TER     260        N Z   1
+HETATM  261  I     N A   1      59.073  51.074   3.827  1.00  0.00           I  
+TER     262        N A   1
+HETATM  263  I     N B   1      30.710  26.917  43.443  1.00  0.00           I  
+TER     264        N B   1
+HETATM  265  I     N C   1       0.616  59.918  30.839  1.00  0.00           I  
+TER     266        N C   1
+HETATM  267  I     N D   1      50.800   8.487  15.557  1.00  0.00           I  
+TER     268        N D   1
+HETATM  269  I     N E   1      15.295  50.216  40.287  1.00  0.00           I  
+TER     270        N E   1
+HETATM  271  I     N F   1      21.408  32.522  27.319  1.00  0.00           I  
+TER     272        N F   1
+HETATM  273  I     N G   1      12.392  21.206  29.310  1.00  0.00           I  
+TER     274        N G   1
+HETATM  275  I     N H   1      13.095  50.109  39.775  1.00  0.00           I  
+TER     276        N H   1
+HETATM  277  I     N I   1      22.235   9.032  41.185  1.00  0.00           I  
+TER     278        N I   1
+HETATM  279  I     N J   1      16.625  46.117  42.616  1.00  0.00           I  
+TER     280        N J   1
+HETATM  281  I     N K   1       7.268  31.546  48.483  1.00  0.00           I  
+TER     282        N K   1
+HETATM  283  I     N L   1      28.655  17.281  13.087  1.00  0.00           I  
+TER     284        N L   1
+HETATM  285  I     N M   1      13.469  13.366  52.675  1.00  0.00           I  
+TER     286        N M   1
+HETATM  287  I     N N   1      28.099  35.328   4.304  1.00  0.00           I  
+TER     288        N N   1
+HETATM  289  I     N O   1      33.295  30.428   9.298  1.00  0.00           I  
+TER     290        N O   1
+HETATM  291  I     N P   1      13.235  48.310  11.232  1.00  0.00           I  
+TER     292        N P   1
+HETATM  293  I     N Q   1      46.209  14.391  24.258  1.00  0.00           I  
+TER     294        N Q   1
+HETATM  295  I     N R   1      15.382  19.086  49.464  1.00  0.00           I  
+TER     296        N R   1
+HETATM  297  I     N S   1      33.357   7.548   8.461  1.00  0.00           I  
+TER     298        N S   1
+HETATM  299  I     N T   1      56.883  34.544   3.863  1.00  0.00           I  
+TER     300        N T   1
+HETATM  301  I     N U   1      48.153   7.994   7.398  1.00  0.00           I  
+TER     302        N U   1
+HETATM  303  I     N V   1      52.915  29.456  39.927  1.00  0.00           I  
+TER     304        N V   1
+HETATM  305  I     N W   1      45.685  16.014  24.354  1.00  0.00           I  
+TER     306        N W   1
+HETATM  307  I     N X   1      38.313  19.336  37.045  1.00  0.00           I  
+TER     308        N X   1
+HETATM  309  I     N Y   1      13.674  27.222  56.155  1.00  0.00           I  
+TER     310        N Y   1
+HETATM  311  I     N Z   1      34.458  14.318  22.119  1.00  0.00           I  
+TER     312        N Z   1
+HETATM  313  I     N A   1      30.019  41.087  30.377  1.00  0.00           I  
+TER     314        N A   1
+HETATM  315  I     N B   1      28.868  16.805  57.761  1.00  0.00           I  
+TER     316        N B   1
+HETATM  317  I     N C   1      58.755  25.154  11.489  1.00  0.00           I  
+TER     318        N C   1
+HETATM  319  I     N D   1      49.296   7.103  12.268  1.00  0.00           I  
+TER     320        N D   1
+HETATM  321  I     N E   1      36.662  33.772  21.397  1.00  0.00           I  
+TER     322        N E   1
+HETATM  323  I     N F   1      54.353  20.045  56.273  1.00  0.00           I  
+TER     324        N F   1
+HETATM  325  I     N G   1      17.703  44.028  59.065  1.00  0.00           I  
+TER     326        N G   1
+HETATM  327  I     N H   1      29.164  48.017  45.070  1.00  0.00           I  
+TER     328        N H   1
+HETATM  329  I     N I   1      19.669  35.943  59.235  1.00  0.00           I  
+TER     330        N I   1
+HETATM  331  I     N J   1      13.001  38.691  42.070  1.00  0.00           I  
+TER     332        N J   1
+HETATM  333  I     N K   1      20.102  10.458  31.980  1.00  0.00           I  
+TER     334        N K   1
+HETATM  335  I     N L   1      48.934  26.712  33.642  1.00  0.00           I  
+TER     336        N L   1
+HETATM  337  I     N M   1      37.784  39.524  41.727  1.00  0.00           I  
+TER     338        N M   1
+HETATM  339  I     N N   1      31.528  25.150   1.438  1.00  0.00           I  
+TER     340        N N   1
+HETATM  341  I     N O   1      18.267  50.147  38.749  1.00  0.00           I  
+TER     342        N O   1
+HETATM  343  I     N P   1      18.867  56.609  49.969  1.00  0.00           I  
+TER     344        N P   1
+HETATM  345  I     N Q   1      16.435  24.600  21.347  1.00  0.00           I  
+TER     346        N Q   1
+HETATM  347  I     N R   1      34.472  11.214  33.570  1.00  0.00           I  
+TER     348        N R   1
+HETATM  349  I     N S   1      34.832  34.932  42.813  1.00  0.00           I  
+TER     350        N S   1
+HETATM  351  I     N T   1       3.635  40.607  26.170  1.00  0.00           I  
+TER     352        N T   1
+HETATM  353  I     N U   1      39.039   0.255  38.405  1.00  0.00           I  
+TER     354        N U   1
+HETATM  355  I     N V   1      42.905   0.827  37.072  1.00  0.00           I  
+TER     356        N V   1
+HETATM  357  I     N W   1      46.922  38.653  13.146  1.00  0.00           I  
+TER     358        N W   1
+HETATM  359  I     N X   1      16.507  58.178  48.979  1.00  0.00           I  
+TER     360        N X   1
+HETATM  361  I     N Y   1      42.893  36.660  41.629  1.00  0.00           I  
+TER     362        N Y   1
+HETATM  363  I     N Z   1      13.736  47.089  22.331  1.00  0.00           I  
+TER     364        N Z   1
+HETATM  365  I     N A   1      45.131  43.169  36.174  1.00  0.00           I  
+TER     366        N A   1
+HETATM  367  I     N B   1      13.932  39.575  30.534  1.00  0.00           I  
+TER     368        N B   1
+HETATM  369  I     N C   1       3.983  33.269  17.172  1.00  0.00           I  
+TER     370        N C   1
+HETATM  371  I     N D   1      37.112  57.224   1.436  1.00  0.00           I  
+TER     372        N D   1
+HETATM  373  I     N E   1      23.886  14.839  31.457  1.00  0.00           I  
+TER     374        N E   1
+HETATM  375  I     N F   1      44.162  59.407  28.600  1.00  0.00           I  
+TER     376        N F   1
+HETATM  377  I     N G   1      27.319  39.690  37.709  1.00  0.00           I  
+TER     378        N G   1
+HETATM  379  I     N H   1      21.733  25.730  34.426  1.00  0.00           I  
+TER     380        N H   1
+HETATM  381  I     N I   1      52.803  51.741  19.982  1.00  0.00           I  
+TER     382        N I   1
+HETATM  383  I     N J   1      50.849  48.856  30.202  1.00  0.00           I  
+TER     384        N J   1
+HETATM  385  I     N K   1      40.548  49.449  12.662  1.00  0.00           I  
+TER     386        N K   1
+HETATM  387  I     N L   1      13.207  33.686  20.600  1.00  0.00           I  
+TER     388        N L   1
+HETATM  389  I     N M   1      45.884  20.299  54.351  1.00  0.00           I  
+TER     390        N M   1
+HETATM  391  I     N N   1      14.129  47.661  30.353  1.00  0.00           I  
+TER     392        N N   1
+HETATM  393  I     N O   1      12.966  26.574  20.100  1.00  0.00           I  
+TER     394        N O   1
+HETATM  395  I     N P   1      45.306   6.804  20.947  1.00  0.00           I  
+TER     396        N P   1
+HETATM  397  I     N Q   1      45.786  57.882  25.521  1.00  0.00           I  
+TER     398        N Q   1
+HETATM  399  I     N R   1      43.141  39.249  36.919  1.00  0.00           I  
+TER     400        N R   1
+HETATM  401  I     N S   1      57.932  44.451  47.479  1.00  0.00           I  
+TER     402        N S   1
+HETATM  403  I     N T   1       4.766  29.032  47.887  1.00  0.00           I  
+TER     404        N T   1
+HETATM  405  I     N U   1      46.478  55.674  46.472  1.00  0.00           I  
+TER     406        N U   1
+HETATM  407  I     N V   1      55.078  53.103  54.729  1.00  0.00           I  
+TER     408        N V   1
+HETATM  409  I     N W   1      46.121  23.210  54.708  1.00  0.00           I  
+TER     410        N W   1
+HETATM  411  I     N X   1      37.068  31.114  27.292  1.00  0.00           I  
+TER     412        N X   1
+HETATM  413  I     N Y   1      56.050  39.151  45.988  1.00  0.00           I  
+TER     414        N Y   1
+HETATM  415  I     N Z   1      42.963  42.795   4.492  1.00  0.00           I  
+TER     416        N Z   1
+HETATM  417  I     N A   1      33.706  57.447  55.194  1.00  0.00           I  
+TER     418        N A   1
+HETATM  419  I     N B   1      19.901  11.619   5.137  1.00  0.00           I  
+TER     420        N B   1
+HETATM  421  I     N C   1       5.893  40.329  24.108  1.00  0.00           I  
+TER     422        N C   1
+HETATM  423  I     N D   1       5.575  32.261  34.699  1.00  0.00           I  
+TER     424        N D   1
+HETATM  425  I     N E   1      35.503   2.383  28.353  1.00  0.00           I  
+TER     426        N E   1
+HETATM  427  I     N F   1      52.490  31.643  47.301  1.00  0.00           I  
+TER     428        N F   1
+HETATM  429  I     N G   1      27.073  15.116  29.153  1.00  0.00           I  
+TER     430        N G   1
+HETATM  431  I     N H   1      36.764   7.735  36.146  1.00  0.00           I  
+TER     432        N H   1
+HETATM  433  I     N I   1       8.972  38.438  41.950  1.00  0.00           I  
+TER     434        N I   1
+HETATM  435  I     N J   1      20.106  59.672  25.683  1.00  0.00           I  
+TER     436        N J   1
+HETATM  437  I     N K   1      28.410  12.148  22.648  1.00  0.00           I  
+TER     438        N K   1
+HETATM  439  I     N L   1      17.354  18.137  38.117  1.00  0.00           I  
+TER     440        N L   1
+HETATM  441  I     N M   1       6.203  27.300  15.490  1.00  0.00           I  
+TER     442        N M   1
+HETATM  443  I     N N   1      21.639   8.975  21.451  1.00  0.00           I  
+TER     444        N N   1
+HETATM  445  I     N O   1      23.732  24.081  48.564  1.00  0.00           I  
+TER     446        N O   1
+HETATM  447  I     N P   1      44.715  52.335  28.727  1.00  0.00           I  
+TER     448        N P   1
+HETATM  449  I     N Q   1      41.870  13.449  33.775  1.00  0.00           I  
+TER     450        N Q   1
+HETATM  451  I     N R   1      57.330  53.780  22.615  1.00  0.00           I  
+TER     452        N R   1
+HETATM  453  I     N S   1       3.294  39.966  39.208  1.00  0.00           I  
+TER     454        N S   1
+HETATM  455  I     N T   1      59.301  58.150  25.951  1.00  0.00           I  
+TER     456        N T   1
+HETATM  457  I     N U   1      37.844  52.934   2.033  1.00  0.00           I  
+TER     458        N U   1
+HETATM  459  I     N V   1      22.267  21.810  57.594  1.00  0.00           I  
+TER     460        N V   1
+HETATM  461  I     N W   1      51.879  42.837  41.762  1.00  0.00           I  
+TER     462        N W   1
+HETATM  463  I     N X   1      45.369   6.881  54.223  1.00  0.00           I  
+TER     464        N X   1
+HETATM  465  I     N Y   1      19.361  48.386  26.260  1.00  0.00           I  
+TER     466        N Y   1
+HETATM  467  I     N Z   1      27.999  20.478  32.879  1.00  0.00           I  
+TER     468        N Z   1
+HETATM  469  I     N A   1      55.100  20.722  54.260  1.00  0.00           I  
+TER     470        N A   1
+HETATM  471  I     N B   1      12.694  57.762  38.579  1.00  0.00           I  
+TER     472        N B   1
+HETATM  473  I     N C   1      20.821  20.411  22.394  1.00  0.00           I  
+TER     474        N C   1
+HETATM  475  I     N D   1      49.325  43.741  44.805  1.00  0.00           I  
+TER     476        N D   1
+HETATM  477  I     N E   1       1.939  11.479  16.394  1.00  0.00           I  
+TER     478        N E   1
+END
