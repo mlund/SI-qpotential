@@ -5,7 +5,7 @@ Supporting information for q-potential
 ## Layout
 
 - `bulk/` Molecular Dynamics setup
-- `salts/` Simulations of aquesous solutions of NaCl and NaI, Kirkwood-Buff analysis
+- `salts/` Simulations of aqueous solutions of NaCl and NaI, Kirkwood-Buff analysis
 
 ## Usage
 
