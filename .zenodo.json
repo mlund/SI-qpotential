@@ -1,0 +1,44 @@
+{
+    "title": "Electronic Notebook: Generalized Moment Correction for Long-Ranged Electrostatics",
+    "description": "This repository contains detailed documentation for reproducing the data and analysis presented in the research paper: 'Generalized Moment Correction for Long-Ranged Electrostatics' published in ACS Journal of Chemical Theory and Computation",
+    "creators": [
+        {
+            "name": "Björn Stenqvist",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9099-0663"
+        },
+        {
+            "name": "Vidar Aspelin",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-6888-1591"
+        },
+         {
+            "name": "Mikael Lund",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
+        }
+    ],
+    "keywords": [
+        "electrostatics",
+        "molecular dynamics",
+        "monte carlo simulation",
+        "intermolecular interactions",
+        "multipoles",
+        "electric field"
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/mlund/SI-qpotential",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1039/c9cp03875b",
+            "relation": "isSupplementTo"
+        }
+    ],
+    "license": "mit-license",
+    "access_right": "open",
+    "upload_type": "software"
+}
