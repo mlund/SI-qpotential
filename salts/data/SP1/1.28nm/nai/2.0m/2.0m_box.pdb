@@ -1,0 +1,368 @@
+HEADER 
+TITLE     Built with Packmol                                             
+REMARK   Packmol generated pdb file 
+REMARK   Home-Page: http://www.ime.unicamp.br/~martinez/packmol
+REMARK
+HETATM    1  I  IN   A   1      34.253  28.079  50.087 1.00  0.00          I    
+TER
+HETATM    2  I  IN   A   2      38.265  50.180  40.544 1.00  0.00          I    
+TER
+HETATM    3  I  IN   A   3      28.429  52.273  34.850 1.00  0.00          I    
+TER
+HETATM    4  I  IN   A   4       8.904   2.359  19.360 1.00  0.00          I    
+TER
+HETATM    5  I  IN   A   5      56.542   7.832  11.215 1.00  0.00          I    
+TER
+HETATM    6  I  IN   A   6      14.848   8.379  33.317 1.00  0.00          I    
+TER
+HETATM    7  I  IN   A   7      46.359  16.110  14.385 1.00  0.00          I    
+TER
+HETATM    8  I  IN   A   8      29.909  14.793   6.463 1.00  0.00          I    
+TER
+HETATM    9  I  IN   A   9      33.473  55.141   2.478 1.00  0.00          I    
+TER
+HETATM   10  I  IN   A  10      20.613  49.769   7.320 1.00  0.00          I    
+TER
+HETATM   11  I  IN   A  11      58.520  15.176  18.823 1.00  0.00          I    
+TER
+HETATM   12  I  IN   A  12      13.598  11.028  17.946 1.00  0.00          I    
+TER
+HETATM   13  I  IN   A  13       1.784   0.507  23.474 1.00  0.00          I    
+TER
+HETATM   14  I  IN   A  14      10.672  28.986  52.967 1.00  0.00          I    
+TER
+HETATM   15  I  IN   A  15      14.844  37.996   3.523 1.00  0.00          I    
+TER
+HETATM   16  I  IN   A  16       7.201   3.345   5.230 1.00  0.00          I    
+TER
+HETATM   17  I  IN   A  17      14.492  56.851  25.012 1.00  0.00          I    
+TER
+HETATM   18  I  IN   A  18      37.082  12.818  58.163 1.00  0.00          I    
+TER
+HETATM   19  I  IN   A  19      23.106   7.188  46.191 1.00  0.00          I    
+TER
+HETATM   20  I  IN   A  20       1.957  12.875  59.860 1.00  0.00          I    
+TER
+HETATM   21  I  IN   A  21      47.391  53.763  26.452 1.00  0.00          I    
+TER
+HETATM   22  I  IN   A  22      11.920  18.886  36.391 1.00  0.00          I    
+TER
+HETATM   23  I  IN   A  23      43.426  12.431   7.244 1.00  0.00          I    
+TER
+HETATM   24  I  IN   A  24       6.625  48.648  54.281 1.00  0.00          I    
+TER
+HETATM   25  I  IN   A  25       6.777  47.846  50.979 1.00  0.00          I    
+TER
+HETATM   26  I  IN   A  26      12.986  35.870  34.972 1.00  0.00          I    
+TER
+HETATM   27  I  IN   A  27      30.861  49.308  21.803 1.00  0.00          I    
+TER
+HETATM   28  I  IN   A  28      25.867  34.488   9.242 1.00  0.00          I    
+TER
+HETATM   29  I  IN   A  29      58.412  33.806  12.137 1.00  0.00          I    
+TER
+HETATM   30  I  IN   A  30      10.588   3.376  38.664 1.00  0.00          I    
+TER
+HETATM   31  I  IN   A  31      52.799   5.508  28.283 1.00  0.00          I    
+TER
+HETATM   32  I  IN   A  32      30.945  27.868   5.504 1.00  0.00          I    
+TER
+HETATM   33  I  IN   A  33      57.774   2.505  22.799 1.00  0.00          I    
+TER
+HETATM   34  I  IN   A  34      58.754  45.466  54.120 1.00  0.00          I    
+TER
+HETATM   35  I  IN   A  35      13.244  32.825  15.028 1.00  0.00          I    
+TER
+HETATM   36  I  IN   A  36      25.166  22.699  30.602 1.00  0.00          I    
+TER
+HETATM   37  I  IN   A  37      27.837  22.293  19.107 1.00  0.00          I    
+TER
+HETATM   38  I  IN   A  38      45.442  58.868  29.134 1.00  0.00          I    
+TER
+HETATM   39  I  IN   A  39      57.264  50.871   3.959 1.00  0.00          I    
+TER
+HETATM   40  I  IN   A  40      53.041  36.710  18.767 1.00  0.00          I    
+TER
+HETATM   41  I  IN   A  41      11.378  50.888  26.050 1.00  0.00          I    
+TER
+HETATM   42  I  IN   A  42       6.038  31.598  24.832 1.00  0.00          I    
+TER
+HETATM   43  I  IN   A  43       4.970  48.360  11.535 1.00  0.00          I    
+TER
+HETATM   44  I  IN   A  44      20.993  14.325   2.873 1.00  0.00          I    
+TER
+HETATM   45  I  IN   A  45      57.544  30.072  55.561 1.00  0.00          I    
+TER
+HETATM   46  I  IN   A  46      14.115  54.289  25.132 1.00  0.00          I    
+TER
+HETATM   47  I  IN   A  47      20.937  52.899  42.977 1.00  0.00          I    
+TER
+HETATM   48  I  IN   A  48      54.428  25.955  53.252 1.00  0.00          I    
+TER
+HETATM   49  I  IN   A  49      43.456  13.101   3.281 1.00  0.00          I    
+TER
+HETATM   50  I  IN   A  50       0.099  26.101  10.682 1.00  0.00          I    
+TER
+HETATM   51  I  IN   A  51      58.387  44.509  10.137 1.00  0.00          I    
+TER
+HETATM   52  I  IN   A  52      49.219  24.154   9.196 1.00  0.00          I    
+TER
+HETATM   53  I  IN   A  53      48.536  52.672  25.095 1.00  0.00          I    
+TER
+HETATM   54  I  IN   A  54      18.884   0.271  43.374 1.00  0.00          I    
+TER
+HETATM   55  I  IN   A  55      17.669  23.892  17.424 1.00  0.00          I    
+TER
+HETATM   56  I  IN   A  56      29.464  37.906   9.571 1.00  0.00          I    
+TER
+HETATM   57  I  IN   A  57      53.509   7.258  58.514 1.00  0.00          I    
+TER
+HETATM   58  I  IN   A  58      22.279  45.262  40.350 1.00  0.00          I    
+TER
+HETATM   59  I  IN   A  59      59.239  30.803  46.074 1.00  0.00          I    
+TER
+HETATM   60  I  IN   A  60       2.409  52.172  27.416 1.00  0.00          I    
+TER
+HETATM   61  I  IN   A  61       9.218  13.052  46.286 1.00  0.00          I    
+TER
+HETATM   62  I  IN   A  62      47.149  58.153  21.939 1.00  0.00          I    
+TER
+HETATM   63  I  IN   A  63      33.210  59.678  26.212 1.00  0.00          I    
+TER
+HETATM   64  I  IN   A  64      37.201  36.398  24.283 1.00  0.00          I    
+TER
+HETATM   65  I  IN   A  65      27.102  21.209  37.539 1.00  0.00          I    
+TER
+HETATM   66  I  IN   A  66       0.142  42.952  45.579 1.00  0.00          I    
+TER
+HETATM   67  I  IN   A  67      29.802  15.296  17.522 1.00  0.00          I    
+TER
+HETATM   68  I  IN   A  68      33.408  12.356  15.973 1.00  0.00          I    
+TER
+HETATM   69  I  IN   A  69      47.346  41.119  42.324 1.00  0.00          I    
+TER
+HETATM   70  I  IN   A  70      37.272  52.138  33.924 1.00  0.00          I    
+TER
+HETATM   71  I  IN   A  71      28.632  29.937  33.308 1.00  0.00          I    
+TER
+HETATM   72  I  IN   A  72      29.788  53.633  17.118 1.00  0.00          I    
+TER
+HETATM   73  I  IN   A  73      23.069  57.917   6.994 1.00  0.00          I    
+TER
+HETATM   74  I  IN   A  74      39.575  19.254  28.274 1.00  0.00          I    
+TER
+HETATM   75  I  IN   A  75      26.565   9.826   7.738 1.00  0.00          I    
+TER
+HETATM   76  I  IN   A  76      35.207  38.593  20.447 1.00  0.00          I    
+TER
+HETATM   77  I  IN   A  77      45.322  41.071   6.130 1.00  0.00          I    
+TER
+HETATM   78  I  IN   A  78      30.321  55.376  25.008 1.00  0.00          I    
+TER
+HETATM   79  I  IN   A  79      53.614   4.257  26.703 1.00  0.00          I    
+TER
+HETATM   80  I  IN   A  80      19.722  46.840  44.414 1.00  0.00          I    
+TER
+HETATM   81  I  IN   A  81       0.883  26.311  54.743 1.00  0.00          I    
+TER
+HETATM   82  I  IN   A  82      48.267  32.170   5.956 1.00  0.00          I    
+TER
+HETATM   83  I  IN   A  83      44.553  53.936  23.965 1.00  0.00          I    
+TER
+HETATM   84  I  IN   A  84      16.143   5.748   2.521 1.00  0.00          I    
+TER
+HETATM   85  I  IN   A  85       5.117   4.300  29.049 1.00  0.00          I    
+TER
+HETATM   86  I  IN   A  86      15.217  18.014  48.567 1.00  0.00          I    
+TER
+HETATM   87  I  IN   A  87      14.080  29.490   9.494 1.00  0.00          I    
+TER
+HETATM   88  I  IN   A  88      32.203   6.288  35.647 1.00  0.00          I    
+TER
+HETATM   89  I  IN   A  89      35.200  12.621   9.999 1.00  0.00          I    
+TER
+HETATM   90  I  IN   A  90       1.425  17.824  22.640 1.00  0.00          I    
+TER
+HETATM   91  I  IN   A  91      45.864  34.783  38.410 1.00  0.00          I    
+TER
+HETATM   92  I  IN   A  92      57.060  11.809  16.420 1.00  0.00          I    
+TER
+HETATM   93  I  IN   A  93      17.921  41.125   2.865 1.00  0.00          I    
+TER
+HETATM   94  I  IN   A  94      23.692  49.717  22.183 1.00  0.00          I    
+TER
+HETATM   95  I  IN   A  95      50.090  10.468  57.403 1.00  0.00          I    
+TER
+HETATM   96  I  IN   A  96      23.174   1.671  54.018 1.00  0.00          I    
+TER
+HETATM   97  I  IN   A  97      55.011  39.071  47.454 1.00  0.00          I    
+TER
+HETATM   98  I  IN   A  98      58.930   2.533  30.670 1.00  0.00          I    
+TER
+HETATM   99  I  IN   A  99      18.975   4.517   7.285 1.00  0.00          I    
+TER
+HETATM  100  I  IN   A 100       7.173  59.716  56.190 1.00  0.00          I    
+TER
+HETATM  101  I  IN   A 101      15.068  11.196   4.787 1.00  0.00          I    
+TER
+HETATM  102  I  IN   A 102       0.251  43.670  39.042 1.00  0.00          I    
+TER
+HETATM  103  I  IN   A 103      46.986  57.901  18.272 1.00  0.00          I    
+TER
+HETATM  104  I  IN   A 104      51.562  19.185   4.639 1.00  0.00          I    
+TER
+HETATM  105  I  IN   A 105      10.095  10.698  36.684 1.00  0.00          I    
+TER
+HETATM  106  I  IN   A 106       8.728  50.618  11.259 1.00  0.00          I    
+TER
+HETATM  107  I  IN   A 107       5.403   8.496  56.895 1.00  0.00          I    
+TER
+HETATM  108  I  IN   A 108      15.793   5.989  53.772 1.00  0.00          I    
+TER
+HETATM  109  I  IN   A 109      11.517  28.936   7.582 1.00  0.00          I    
+TER
+HETATM  110  I  IN   A 110      56.855  54.913   1.740 1.00  0.00          I    
+TER
+HETATM  111  I  IN   A 111       3.537  33.415  46.756 1.00  0.00          I    
+TER
+HETATM  112  I  IN   A 112      55.995  32.742  48.059 1.00  0.00          I    
+TER
+HETATM  113  I  IN   A 113      57.581  42.286  28.066 1.00  0.00          I    
+TER
+HETATM  114  I  IN   A 114      14.790  28.197  29.478 1.00  0.00          I    
+TER
+HETATM  115  I  IN   A 115      42.046  27.267   8.546 1.00  0.00          I    
+TER
+HETATM  116  I  IN   A 116      58.985  22.046   2.953 1.00  0.00          I    
+TER
+HETATM  117  I  IN   A 117      44.579  43.317   5.946 1.00  0.00          I    
+TER
+HETATM  118  I  IN   A 118      37.161  55.734  18.699 1.00  0.00          I    
+TER
+HETATM  119  I  IN   A 119      19.824  20.992  24.426 1.00  0.00          I    
+TER
+HETATM  120  I  IN   A 120      35.267  55.245  23.950 1.00  0.00          I    
+TER
+HETATM  121  I  IN   A 121       1.214  44.679  11.675 1.00  0.00          I    
+TER
+HETATM  122  I  IN   A 122      16.389  13.838  19.499 1.00  0.00          I    
+TER
+HETATM  123  I  IN   A 123      57.752  48.964   6.308 1.00  0.00          I    
+TER
+HETATM  124  I  IN   A 124      25.473  59.299  25.323 1.00  0.00          I    
+TER
+HETATM  125  I  IN   A 125      59.430  52.125  16.724 1.00  0.00          I    
+TER
+HETATM  126  I  IN   A 126      57.411   1.357  26.994 1.00  0.00          I    
+TER
+HETATM  127  I  IN   A 127      14.621  27.065  49.433 1.00  0.00          I    
+TER
+HETATM  128  I  IN   A 128       3.270  34.564  59.260 1.00  0.00          I    
+TER
+HETATM  129  I  IN   A 129       5.275  53.751  30.536 1.00  0.00          I    
+TER
+HETATM  130  I  IN   A 130      43.016  44.372   2.132 1.00  0.00          I    
+TER
+HETATM  131  I  IN   A 131      42.543  53.482   8.269 1.00  0.00          I    
+TER
+HETATM  132  I  IN   A 132      55.015  48.827  58.297 1.00  0.00          I    
+TER
+HETATM  133  I  IN   A 133      45.674  56.258  45.267 1.00  0.00          I    
+TER
+HETATM  134  I  IN   A 134       8.239  58.389  36.995 1.00  0.00          I    
+TER
+HETATM  135  I  IN   A 135      51.090  39.143  42.418 1.00  0.00          I    
+TER
+HETATM  136  I  IN   A 136      54.539  20.036  29.530 1.00  0.00          I    
+TER
+HETATM  137  I  IN   A 137      29.708  24.961  24.123 1.00  0.00          I    
+TER
+HETATM  138  I  IN   A 138      17.021   6.692   5.270 1.00  0.00          I    
+TER
+HETATM  139  I  IN   A 139      34.049   6.674  15.144 1.00  0.00          I    
+TER
+HETATM  140  I  IN   A 140      51.138  51.705  16.435 1.00  0.00          I    
+TER
+HETATM  141  I  IN   A 141      56.276   3.751  17.575 1.00  0.00          I    
+TER
+HETATM  142  I  IN   A 142      53.257  55.315   9.483 1.00  0.00          I    
+TER
+HETATM  143  I  IN   A 143      40.161  22.928  30.267 1.00  0.00          I    
+TER
+HETATM  144  I  IN   A 144      57.655  38.921  17.092 1.00  0.00          I    
+TER
+HETATM  145  I  IN   A 145       4.736  53.608  53.160 1.00  0.00          I    
+TER
+HETATM  146  I  IN   A 146      12.193  34.192   4.918 1.00  0.00          I    
+TER
+HETATM  147  I  IN   A 147      23.983  31.676   5.749 1.00  0.00          I    
+TER
+HETATM  148  I  IN   A 148      20.287  46.277  40.827 1.00  0.00          I    
+TER
+HETATM  149  I  IN   A 149      18.485  30.203  52.186 1.00  0.00          I    
+TER
+HETATM  150  I  IN   A 150      56.710  25.960   8.345 1.00  0.00          I    
+TER
+HETATM  151  I  IN   A 151      58.582  34.035  18.162 1.00  0.00          I    
+TER
+HETATM  152  I  IN   A 152       1.543  59.571  12.593 1.00  0.00          I    
+TER
+HETATM  153  I  IN   A 153       6.642  40.068  29.851 1.00  0.00          I    
+TER
+HETATM  154  I  IN   A 154      48.321  47.431  55.585 1.00  0.00          I    
+TER
+HETATM  155  I  IN   A 155      14.135   6.467  32.308 1.00  0.00          I    
+TER
+HETATM  156  I  IN   A 156      10.942  11.876  19.403 1.00  0.00          I    
+TER
+HETATM  157  I  IN   A 157      28.996  31.508  24.144 1.00  0.00          I    
+TER
+HETATM  158  I  IN   A 158      10.200   8.378  54.330 1.00  0.00          I    
+TER
+HETATM  159  I  IN   A 159      43.329  52.746  56.173 1.00  0.00          I    
+TER
+HETATM  160  I  IN   A 160      42.732  49.307  31.046 1.00  0.00          I    
+TER
+HETATM  161  I  IN   A 161      51.178  10.801  46.087 1.00  0.00          I    
+TER
+HETATM  162  I  IN   A 162      22.080  16.700  45.183 1.00  0.00          I    
+TER
+HETATM  163  I  IN   A 163      10.742  16.399  46.743 1.00  0.00          I    
+TER
+HETATM  164  I  IN   A 164      38.470  22.276  29.079 1.00  0.00          I    
+TER
+HETATM  165  I  IN   A 165      11.041  56.494   2.068 1.00  0.00          I    
+TER
+HETATM  166  I  IN   A 166       6.944  59.908  29.148 1.00  0.00          I    
+TER
+HETATM  167  I  IN   A 167       1.714   6.910  17.059 1.00  0.00          I    
+TER
+HETATM  168  I  IN   A 168      44.661  45.315  31.050 1.00  0.00          I    
+TER
+HETATM  169  I  IN   A 169      38.976  50.109  46.818 1.00  0.00          I    
+TER
+HETATM  170  I  IN   A 170       2.787  23.985  17.488 1.00  0.00          I    
+TER
+HETATM  171  I  IN   A 171      22.218   3.481   6.656 1.00  0.00          I    
+TER
+HETATM  172  I  IN   A 172       4.269   4.223  49.038 1.00  0.00          I    
+TER
+HETATM  173  I  IN   A 173      25.030  26.752  40.792 1.00  0.00          I    
+TER
+HETATM  174  I  IN   A 174      43.181  35.875  28.322 1.00  0.00          I    
+TER
+HETATM  175  I  IN   A 175      22.706   7.784   4.490 1.00  0.00          I    
+TER
+HETATM  176  I  IN   A 176       1.157  22.546  19.984 1.00  0.00          I    
+TER
+HETATM  177  I  IN   A 177       3.235   8.477   1.934 1.00  0.00          I    
+TER
+HETATM  178  I  IN   A 178      50.239  11.717   9.611 1.00  0.00          I    
+TER
+HETATM  179  I  IN   A 179      51.922  30.341  44.483 1.00  0.00          I    
+TER
+HETATM  180  I  IN   A 180      21.202   9.999  59.913 1.00  0.00          I    
+TER
+HETATM  181  I  IN   A 181      14.485   1.032  33.094 1.00  0.00          I    
+TER
+END
