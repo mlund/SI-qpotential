@@ -1,7 +1,0 @@
-
-Due to MODULEPATH changes, the following have been reloaded:
-  1) imkl/2019.1.144     2) impi/2018.4.274
-
-The following have been reloaded with a version change:
-  1) CUDA/10.1.105 => CUDA/10.1.243
-
