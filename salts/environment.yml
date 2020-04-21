@@ -1,4 +1,4 @@
-name: qpotential
+name: qpotential-salts
 channels:
   - anaconda
   - omnia
