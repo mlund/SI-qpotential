@@ -15,6 +15,8 @@ make sure all required packages are loaded by issuing the following terminal com
 
 ``` bash
     conda env create -f environment.yml
-    source activate qpotential
+    source activate qpotential-*
     jupyter-notebook
 ```
+
+where `*` can be either `bulk` or `salts` depending on the subdirectory above.
