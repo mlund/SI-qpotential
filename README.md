@@ -1,7 +1,7 @@
 # Electronic Notebook: Generalized Moment Correction for Long-Ranged Electrostatics
 
 This repository contains detailed documentation for reproducing the data and analysis presented in the research paper
-_Generalized Moment Correction for Long-Ranged Electrostatics_ published in ACS Journal of Chemical Theory and Computation.
+_Generalized Moment Correction for Long-Ranged Electrostatics_, published in ACS Journal of Chemical Theory and Computation ([doi:10/dsmp](https://doi.org/10.1021/acs.jctc.9b01003)).
  
 ## Layout
 
