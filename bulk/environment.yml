@@ -1,4 +1,4 @@
-name: qpotential
+name: qpotential-bulk
 channels:
   - anaconda
   - omnia
