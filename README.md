@@ -1,8 +1,7 @@
 # Electronic Notebook: Generalized Moment Correction for Long-Ranged Electrostatics
 
 This repository contains detailed documentation for reproducing the data and analysis presented in the research paper
-_Generalized Moment Correction for Long-Ranged Electrostatics_
-(perhaps!) published in ACS Journal of Chemical Theory and Computation.
+_Generalized Moment Correction for Long-Ranged Electrostatics_ published in ACS Journal of Chemical Theory and Computation.
  
 ## Layout
 
@@ -16,6 +15,8 @@ make sure all required packages are loaded by issuing the following terminal com
 
 ``` bash
     conda env create -f environment.yml
-    source activate qpotential
+    source activate qpotential-*
     jupyter-notebook
 ```
+
+where `*` can be either `bulk` or `salts` depending on the subdirectory above.
